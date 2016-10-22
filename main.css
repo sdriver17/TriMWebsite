@@ -2,8 +2,8 @@ html, body {
   height:100%;
   padding: 0;
   margin:0;
-  overflow-y: scroll;
-  overflow-x: hidden;
+  overflow-y: hidden;
+  overflow-x: scroll;
   font-family: Helvetica;
 }
 
@@ -202,9 +202,10 @@ html, body {
 #block-left {
   float: left;
   width: 780px;
-  height: calc(100% - 65px);
+  height: 915px;
   background-color: #e6e6e6;
   display: block;
+
 }
 
 #side-logo {
