@@ -295,6 +295,7 @@ html, body {
   text-align: center;
   padding-left: 35px;
   padding-right: 35px;
+  height: 100%;
 }
 #download-button {
   width:100%;
@@ -396,4 +397,11 @@ padding-left: 10px;
 
 #gray {
   background-color: #e6e6e6;
+}
+
+#service-block {
+  height: 100%;
+  background-color: #fff;
+  float: right;
+  width: 75%;
 }
