@@ -289,7 +289,7 @@ html, body {
   height: 100%;
 }
 #download-block {
-
+  background-color: #fff;
   width: 33%;
   float: left;
   text-align: center;
@@ -364,8 +364,8 @@ padding-left: 10px;
   height: 100%;
 }
 
-#service-block {
-
+#calendar-block {
+  background-color: #fff;
   width: 50%;
   float: left;
   padding-left: 35px;
